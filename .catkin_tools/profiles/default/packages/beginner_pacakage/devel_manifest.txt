@@ -1,0 +1,8 @@
+beginner_pacakage
+/home/saumil/catkin_ws/devel/.private/beginner_pacakage/cmake.lock /home/saumil/catkin_ws/devel/./cmake.lock
+/home/saumil/catkin_ws/devel/.private/beginner_pacakage/lib/pkgconfig/beginner_pacakage.pc /home/saumil/catkin_ws/devel/lib/pkgconfig/beginner_pacakage.pc
+/home/saumil/catkin_ws/devel/.private/beginner_pacakage/lib/beginner_pacakage/listen.py /home/saumil/catkin_ws/devel/lib/beginner_pacakage/listen.py
+/home/saumil/catkin_ws/devel/.private/beginner_pacakage/lib/beginner_pacakage/talk.py /home/saumil/catkin_ws/devel/lib/beginner_pacakage/talk.py
+/home/saumil/catkin_ws/devel/.private/beginner_pacakage/lib/beginner_pacakage/cmake.lock /home/saumil/catkin_ws/devel/lib/beginner_pacakage/cmake.lock
+/home/saumil/catkin_ws/devel/.private/beginner_pacakage/share/beginner_pacakage/cmake/beginner_pacakageConfig-version.cmake /home/saumil/catkin_ws/devel/share/beginner_pacakage/cmake/beginner_pacakageConfig-version.cmake
+/home/saumil/catkin_ws/devel/.private/beginner_pacakage/share/beginner_pacakage/cmake/beginner_pacakageConfig.cmake /home/saumil/catkin_ws/devel/share/beginner_pacakage/cmake/beginner_pacakageConfig.cmake

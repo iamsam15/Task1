@@ -1,0 +1,1 @@
+/home/saumil/catkin_ws/devel/.private/beginner_pacakage/lib/pkgconfig/beginner_pacakage.pc

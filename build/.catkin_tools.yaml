@@ -1,0 +1,6 @@
+devel_space: /home/saumil/catkin_ws/devel
+install: false
+install_space: /home/saumil/catkin_ws/install
+profile: default
+source_space: /home/saumil/catkin_ws/src
+workspace: /home/saumil/catkin_ws

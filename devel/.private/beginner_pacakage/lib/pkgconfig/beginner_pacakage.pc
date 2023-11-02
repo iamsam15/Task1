@@ -1,0 +1,8 @@
+prefix=/home/saumil/catkin_ws/devel/.private/beginner_pacakage
+
+Name: beginner_pacakage
+Description: Description of beginner_pacakage
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
